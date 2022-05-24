@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning k8s,golang
+- 📫 How to reach me: chaunceyjiang@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunceyjiang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

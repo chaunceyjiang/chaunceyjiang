@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 ![speaker-kubecon-cloudnativecon-north-america-2023](https://github.com/chaunceyjiang/chaunceyjiang/assets/17962021/683f59c6-e8cb-418f-aada-754b7408f150)
-![speaker-kubecon-cloudnativecon-open-source-summit-c (1)](https://github.com/chaunceyjiang/chaunceyjiang/assets/17962021/2613d614-2fae-4b78-aae7-636dfc1d65de)
+![speaker-kubecon-cloudnativecon-open-source-summit-china](https://github.com/chaunceyjiang/chaunceyjiang/assets/17962021/2613d614-2fae-4b78-aae7-636dfc1d65de)

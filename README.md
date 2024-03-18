@@ -14,11 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
 - 🌱 I’m currently learning k8s,golang
 - 📫 How to reach me: chaunceyjiang@gmail.com
+
+  
+### 😄 A collection of my past speeches
+
+- [Explain in detail the service exposure mechanism in K8s and the OpenELB load balancer]( https://www.bilibili.com/video/BV1Zu411D7xq) KubeSphere Meetup
+- [Analysis of cross-cluster elastic scaling scenarios and implementations for Karmada](https://www.youtube.com/watch?v=uA8h6zdcl_E&list=PLj6h78yzYM2Nyih0u05FKmUb8afB0cgkX&index=6) KCD Beijing
+- [Break Through Cluster Boundaries to Autoscale Workloads Across Them on a Large Scale](https://www.youtube.com/watch?v=22W1yrEJjtQ&list=PLj6h78yzYM2OJcjIuAsbbhXAaDrAnuKRB&index=78) KubeCon Shanghai
+- [Break Through Cluster Boundaries to Autoscale Workloads Across Them on a Large Scale](https://www.youtube.com/watch?v=9hn7klk7fvk&list=PLj6h78yzYM2MYc0X1465RzF_7Cqf7bnqL&index=68) KubeCon Chicago
+- [Kubean: A Multi-Cluster Lifecycle Management Tool](https://www.deepin.org/zh/deepin-meetup-2024-chengdu/) Deepin Meetup 
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunceyjiang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

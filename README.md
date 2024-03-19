@@ -27,9 +27,12 @@ Here are some ideas to get you started:
 - [Kubean: A Multi-Cluster Lifecycle Management Tool](https://www.deepin.org/zh/deepin-meetup-2024-chengdu/) Deepin Meetup 
 
 
+[![ChaunceyJiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunceyjiang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunceyjiang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![speaker-kubecon-cloudnativecon-north-america-2023](https://github.com/chaunceyjiang/chaunceyjiang/assets/17962021/683f59c6-e8cb-418f-aada-754b7408f150)
 ![speaker-kubecon-cloudnativecon-open-source-summit-china](https://github.com/chaunceyjiang/chaunceyjiang/assets/17962021/2613d614-2fae-4b78-aae7-636dfc1d65de)
+
+
+

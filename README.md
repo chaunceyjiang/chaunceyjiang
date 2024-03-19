@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [Kubean: A Multi-Cluster Lifecycle Management Tool](https://www.deepin.org/zh/deepin-meetup-2024-chengdu/) Deepin Meetup 
 
 
-[![ChaunceyJiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunceyjiang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![ChaunceyJiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunceyjiang&count_private=true\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 

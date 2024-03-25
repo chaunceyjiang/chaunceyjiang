@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: chaunceyjiang@gmail.com
 
   
-### 😄 A collection of my past speeches
+### 🌱 Learning and Sharing
 
 - [Explain in detail the service exposure mechanism in K8s and the OpenELB load balancer]( https://www.bilibili.com/video/BV1Zu411D7xq) KubeSphere Meetup
 - [Analysis of cross-cluster elastic scaling scenarios and implementations for Karmada](https://www.youtube.com/watch?v=uA8h6zdcl_E&list=PLj6h78yzYM2Nyih0u05FKmUb8afB0cgkX&index=6) KCD Beijing

@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - [Break Through Cluster Boundaries to Autoscale Workloads Across Them on a Large Scale](https://www.youtube.com/watch?v=22W1yrEJjtQ&list=PLj6h78yzYM2OJcjIuAsbbhXAaDrAnuKRB&index=78) KubeCon Shanghai
 - [Break Through Cluster Boundaries to Autoscale Workloads Across Them on a Large Scale](https://www.youtube.com/watch?v=9hn7klk7fvk&list=PLj6h78yzYM2MYc0X1465RzF_7Cqf7bnqL&index=68) KubeCon Chicago
 - [Kubean: A Multi-Cluster Lifecycle Management Tool](https://www.deepin.org/zh/deepin-meetup-2024-chengdu/) Deepin Meetup 
-
-
+- [Project Lightning Talk: A Deep Dive into Cilium Gateway API: The Future of Ingress Traffic Routing](https://www.youtube.com/watch?v=H3LFb4Q7Hbw&list=PLj6h78yzYM2NcAGHRxgBHY8x3QTfnZQCv&index=81) KubeCon Hongkong
+- 
 ![ChaunceyJiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunceyjiang&count_private=true\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 

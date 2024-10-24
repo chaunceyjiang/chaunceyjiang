@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning k8s,golang
+- 🌱 I’m currently learning K8s,Golang, Cilium, GPU, CUDA,. 
 - 📫 How to reach me: chaunceyjiang@gmail.com
 
   

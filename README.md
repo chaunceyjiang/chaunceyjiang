@@ -28,11 +28,13 @@ Here are some ideas to get you started:
 - [A Deep Dive into Cilium Gateway API: The Future of Ingress Traffic Routing](https://cloudnative.to/event/cloud-native-meetup-dalian-14/) Dalian CNC
 - [Project Lightning Talk: A Deep Dive into Cilium Gateway API: The Future of Ingress Traffic Routing](https://www.youtube.com/watch?v=H3LFb4Q7Hbw&list=PLj6h78yzYM2NcAGHRxgBHY8x3QTfnZQCv&index=81) KubeCon Hongkong
 
-  
-![ChaunceyJiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunceyjiang&count_private=true\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 ![speaker-kubecon-cloudnativecon-north-america-2023](https://github.com/chaunceyjiang/chaunceyjiang/assets/17962021/683f59c6-e8cb-418f-aada-754b7408f150)
 ![speaker-kubecon-cloudnativecon-open-source-summit-china](https://github.com/chaunceyjiang/chaunceyjiang/assets/17962021/2613d614-2fae-4b78-aae7-636dfc1d65de)
 ![program-committee-member-kubecon-cloudnativecon-ope](https://github.com/chaunceyjiang/chaunceyjiang/assets/17962021/63a6e17c-5e52-4c69-b609-a8dfb9018fbf)
 ![ciliumcon-eu-2025-program-committee-member-badge](https://github.com/user-attachments/assets/2e207b83-e9e6-4ca5-b0fa-6ce562914aed)
+![contributor-kcd-hangzhou-2025](https://github.com/user-attachments/assets/2519b323-2e13-4ed0-84a8-a98a208c822a)
+
+
 
